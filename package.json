@@ -1,4 +1,8 @@
 {
+  "name": "foobar",
+  "author": {
+    "name": "john"
+  },
   "dependencies": {
     "express": "^4.18.1"
   }
