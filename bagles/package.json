@@ -1,0 +1,11 @@
+{
+  "name": "bagles",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": {
+    "name": "john"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
